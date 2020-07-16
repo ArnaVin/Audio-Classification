@@ -1,0 +1,5 @@
+metrics,Vgg16,ResNet50,Vgg19
+Accuracy,0.883,0.9005,0.8387
+Precision,0.8871,0.9007,0.8425
+Recall,0.883,0.9005,0.8387
+F1_Score,0.8834,0.9002,0.8382
