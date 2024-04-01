@@ -21,9 +21,9 @@ Dependencies:
     Keras
 Project Structure:
 
-    UrbanSound8k/   : Classification done using LSTM, Bi-LSTM, GRU and CNN.
-    UrbanSound8k_tl/: Classification done using transfer learning using pretrained VGG16, VGG19 and ResNet50 networks.
-    README.md       : Overview of the project and instructions for usage.
+    UrbanSound8k/    : Classification done using LSTM, Bi-LSTM, GRU and CNN.
+    UrbanSound8k_tl/ : Classification done using transfer learning with pretrained VGG16, VGG19 and ResNet50 networks.
+    README.md        : Overview of the project and instructions for usage.
 
 **Contributing:**
 Contributions to the project are welcome. If you encounter any bugs, issues, or have suggestions for improvements, feel free to open an issue or submit a pull request.
